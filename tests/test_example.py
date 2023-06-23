@@ -21,4 +21,4 @@ def test_stack():
     assert not stack
     with pytest.raises(IndexError):
         stack.pop()
-
+        
