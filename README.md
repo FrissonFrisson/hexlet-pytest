@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/FrissonFrisson/hexlet-pytest/actions/workflows/main.yml/badge.svg)](https://github.com/FrissonFrisson/hexlet-pytest/actions/workflows/main.yml)
